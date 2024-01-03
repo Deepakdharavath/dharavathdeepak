@@ -1,0 +1,3 @@
+ <div style="text-align:center"><a class="button safeL" href="URL" data-href="Your Url here">
+    <i class="icon demo"></i> Button </a>
+</div>
